@@ -1,0 +1,30 @@
+*{
+  /* background-image: url('./imgs/goodies2.png'); */
+}
+.start{
+  display: flex;
+  justify-content: center;
+}
+button{
+  background: white;
+  border: 2px solid black;
+  border-radius: 35%;
+  height: 80px;
+  width: 150px;
+}
+.stats{
+  display: flex;
+  margin-left: 33%;
+  background-color: wheat;
+  border: 2px solid black;
+  width: 300px;
+  height: 300px;
+}
+#interact{
+  display: flex;
+  justify-content: center;
+  background-color: white;
+  border: 1px solid black;
+  height: 300px;
+  width: 300px;
+}
